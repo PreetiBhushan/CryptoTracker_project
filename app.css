@@ -1,0 +1,23 @@
+.main{
+    margin-top: 10%;
+}
+.mainClick{
+    margin-top: 2%;
+}
+body{
+   background-image:url(https://images.unsplash.com/photo-1638913975386-d61f0ec6500d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80);
+   
+
+}
+
+.fix{
+    border:2px solid #fca311;
+    border-radius: 5px;
+    background-color:#fca311 ;
+    padding: 10px;
+}
+h1,h4{
+    
+    color:burlywood;
+    font-weight: 700;
+}
